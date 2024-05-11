@@ -21,11 +21,14 @@
 }
 .container3{
 	background-color: white;
+	border: none;
 	border-radius:2px
 	
 }
 .pictorial-news-section{
 	background-color: white;
-	border-radius:2px
+	border: none;
+	border-radius:2px;
+	text-align:center;
 	
 }
